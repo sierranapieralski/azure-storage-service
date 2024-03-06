@@ -27,3 +27,5 @@ app.get("/image", async (req, res) => {
 app.listen(PORT, () => {
     console.log(`Azure storage service is up and listening to port ${PORT}`);
 });
+
+// done??
